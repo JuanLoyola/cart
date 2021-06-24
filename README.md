@@ -11,7 +11,7 @@ This repository is a practice as a way to try out new things
 * Json
 ```
 
-Also if you wanna use it, you have to go <a href="https://github.com/JuanLoyola/cart-backend">here</a> and download the back end of this project.
+Also if you wanna use it, you have to go <a href="https://github.com/JuanLoyola/cart-backend">HERE</a> and download the <strong>BACK END</strong> of this project.
 After that, use:
 
 ```
